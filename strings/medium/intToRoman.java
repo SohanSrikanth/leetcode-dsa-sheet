@@ -1,4 +1,4 @@
-package strings.easy;
+package strings.medium;
 
 class Solution {
     public String intToRoman(int num) {
